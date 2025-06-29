@@ -1,1 +1,250 @@
+
 second code for client
+
+first code
+ history
+    1  pwd
+    2  cd f://
+    3  ls
+    4  mkdr "command line"
+    5  mkdir "command line"
+    6  cd "command line"/
+    7  touch new.txt
+    8  touch "python.py"
+    9  rm "new.txt"
+   10  cd ..
+   11  DIR /S
+   12  TREE /
+   13  tree /
+   14  tree fATEH
+   15  tree /
+   16  tree fam
+   17  d:
+   18  Dfsdel
+   19  sudo su
+   20  mkdir git
+   21  ls
+   22  cd git
+   23  cat >file1
+   24  cat file1
+   25  git init
+   26  git status
+   27  git add file1
+   28  git status
+   29  git commit -m "version 1.0"
+   30  git config --global user.email "fatehali2210@gmail.com"
+   31  git config --global user.name "fatehali2210"
+   32  git commit -m "version 1.0"
+   33  git log
+   34  git show  6922d04d0bc04b6525d581e25c696514a9b29c50
+   35  git remote add origin https://github.com/fam2210/centralgit.git
+   36  git push -u origin main
+   37  git push -u origin main
+   38  git push -u origin master
+   39  user
+   40  clear
+   41  sudo su
+   42  clear
+   43  mkdir git2
+   44  cd git2
+   45  git init
+   46  cat >file2
+   47  git add file2
+   48  git status
+   49  user --global user.name "fatehali"
+   50      git config --global user.name "fateh"
+   51      git config --global user.name "fateh@gmail.com"
+   52  git status
+   53  git commit -m "version 2.0"
+   54  git status
+   55  git log
+   56  git push -u origin master
+   57  git remote add origin https://github.com/fam2210/centralgit.git
+   58  git push -u origin master
+   59  git pull -u origin master
+   60  git push -u origin main
+   61  git push -u origin master
+   62  clear
+   63  cd
+   64  clear
+   65  ls
+   66  clear
+   67  cd git2
+   68  ls
+   69  clear
+   70  git init
+   71  exit
+   72  ls
+   73  cd git
+   74  cat >file1
+   75  ls
+   76  cat file1
+   77  git init
+   78  ls
+   79  git status
+   80  git add file1
+   81  git status
+   82  git commit -m "version 2.0"
+   83  git status
+   84  git push -u origin master
+   85  cd
+   86  cd git2
+   87  git remote add origin https://github.com/fam2210/centralgit.git
+   88  git pull origin master
+   89  git log
+   90  git show 8bed214fcb2a93e83ac1a1611a542f424f259b50
+   91  git push origin master
+   92  clear
+   93  cd
+   94  cd git
+   95  clear
+   96  git pull origin master
+   97  git status
+   98  cat >>file1
+   99  git status
+  100  git add .
+  101  git status
+  102  git commit -m "Commit from second"
+  103  git status
+  104  git log
+  105  git push origin master
+  106  git config --global user.email "fatehali2210@gmail.com"
+  107  git config --global user.name "fatehali2210"
+  108  git pull origin master
+  109  git log
+  110  git show 8b93b5807d19e78b7783e6670ded00f2512cb1ed
+  111  cat >>file1
+  112  git status
+  113  git add .
+  114  git status
+  115  git commit "version 3.0"
+  116  git status
+  117  git commit -m "version 3.0"
+  118  git status
+  119  git push origin master
+  120  clear
+  121  vi .gitignore
+  122  git add .gitignore
+  123  git commit -m "ignore file"
+  124  git status
+  125  ls
+  126  touch file2 file3
+  127  git status
+  128  git add .
+  129  git status
+  130  git commit -m "file2 ignore"
+  131  git log
+  132  git show 1c771bd3aa366bc58ec4e6533193d64e83f9880a
+  133  ls
+  134  rm -rf file2 file3
+  135  ls
+  136  clear
+  137  git log
+  138  git log --grep "version"
+  139  clear
+  140  cd
+  141  exit
+  142  ls
+  143  cd git
+  144  clear
+  145  ls
+  146  clear
+  147  git log --oneline
+  148  clear
+  149  git branch
+  150  clear
+  151  git branch
+  152  clear
+  153  git checkout b1
+  154  clear
+  155  ls
+  156  clear
+  157  cat > b1file
+  158  git status
+  159  git add/rm
+  160  git status
+  161  git add/rm file3
+  162  git status
+  163  git restore file3
+  164  git status
+  165  clear
+  166  git add .
+  167  git status
+  168  git commit -m "b1 version 1.0"
+  169  clear
+  170  git log --oneline
+  171  ls
+  172  clear
+  173  cd
+  174  mkdir git3
+  175  cd git3
+  176  cat >file1
+  177  git init
+  178  git status
+  179  git add .
+  180  git add .
+  181  git status
+  182  git commit -m "GitLab V.1"
+  183  git remote set-url origin https://gitlab.com/softwaresolutionshardware7-group/softwaresolutionshardware7-project.git
+  184  git remote add origin https://gitlab.com/softwaresolutionshardware7-group/softwaresolutionshardware7-project.git
+  185  git remote -v
+  186  git push origin main
+  187  git push origin master
+  188  cd git3
+  189  git init
+  190  ls
+  191  git status
+  192  git remote add origin https://gitlab.com/softwaresolutionshardware7-group/softwaresolutionshardware7-project.git
+  193  git remote -v
+  194  git push origin master
+  195  git push origin master
+  196  git push origin master
+  197  git push origin master
+  198  git push origin master
+  199  git push origin master
+  200  git push origin main
+  201  git push origin master
+  202  git push origin main
+  203  git add branch main
+  204  git branch add main
+  205  git branch
+  206  git push --help
+  207  git push -u origin master
+  208  git branch main
+  209  git branch
+  210  git checkout main
+  211  git push origin main
+  212  clear
+  213  cd
+  214  clear
+  215  cd git
+  216  git init
+  217  ls
+  218  git status
+  219  git push b1
+  220  git remote origin https://github.com/fam2210/centralgit.git
+  221  git remote -u origin https://github.com/fam2210/centralgit.git
+  222  git remote add origin https://github.com/fam2210/centralgit.git
+  223  cat >famfile
+  224  git add .
+  225  git commit -m "Fam conflict"
+  226  git status
+  227  git checkout master
+  228  cat >famfile
+  229  git add .
+  230  git commit -m "Fam conflict"
+  231  git status
+  232  cat >famfile
+  233  git add .
+  234  git commit -m "Fam conflict"
+  235  clear
+  236  git merge b1
+  237  vi famfile
+  238  git status
+  239  git add .
+  240  git commit -m "conflict file"
+  241  git status
+  242  git push origin master
+  243  history
+
+>>>>>>> Stashed changes
