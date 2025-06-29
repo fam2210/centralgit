@@ -242,4 +242,50 @@
   241  git status
   242  git push origin master
   243  history
+  244  cat >history file
+  245  cat >historyfile
+  246  git add .
+  247  git commit -m "History File v.1"
+  248  git push origin master
+  249  clear
+  250  touch demofile
+  251  git add.
+  252  git add .
+  253  git commit -m "demofile"
+  254  vi demofile
+  255  git stash
+  256  vi demofile
+  257  cat demofile
+  258  git stash list
+  259  vi demofile
+  260  cat demofile
+  261  git stash
+  262  git stash list
+  263  git stash apply stash@{0}
+  264  cat demofile
+  265  git add .
+  266  git commit -m "second code done"
+  267  git stash apply stash@{1}
+  268  cat demofile
+  269  vi demofile
+  270  git add .
+  271  git commit -m "final code"
+  272  git status
+  273  git log --oneline
+  274  git statsh list
+  275  git stash list
+  276  git stash clear
+  277  git stash list
+  278  cat >testfile
+  279  git add .
+  280  git status
+  281  git reset .
+  282  git status
+  283  clear
+  284  git add .
+  285  git status
+  286  git reset --hard
+  287  git status
+  288  ls
+  289  history
 
